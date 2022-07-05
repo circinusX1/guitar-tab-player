@@ -1,5 +1,7 @@
 # [ghitara.com](https://ghitara.com)
 
+----
+
 ## TAB PLAYER ONLINE, GUITAR PRO ONLINE, GUITAR PRO PLAYER ONLINE, MIDI CONVERTER
 ### * [auto play](https://ghitara.com/index.php?play2=C/CelelalteCuvinte/CelelalteCuvinte-LaCeasTirziu.gp5&genere=dummy0.jpg&sse=3279-3395-0&plpa)
 ### * MIDI to guitar pro converter
@@ -9,9 +11,11 @@
 ### * bookmarks
 ### * no accounts, no ads, no spam, no popups.
 
+----
 
 #### * Thanks to [Alphatab](https://github.com/CoderLine/alphaTab)
-#### * Thanks to [Tuxguitar](https://github.com/phiresky/tuxguitar)  for midi to gp converter
+#### * Thanks to [Tuxguitar](https://github.com/phiresky/tuxguitar)
+
 
 
 
