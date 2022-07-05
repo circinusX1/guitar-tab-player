@@ -1,8 +1,7 @@
 # ghitara.com
 
-    * https://ghitara.com
-      * Tab player online
-
+    [] (https://ghitara.com)
+      
 ### MIDI to guitar pro converter
 ### play music score or guitar tab
 ### visualise the fretboard, or piano or a drum set animation while playing
