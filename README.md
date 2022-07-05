@@ -9,7 +9,7 @@
 ### no accounts, no ads, no spam, no popups.
 
 
-#### Thanks to (Alphatab)[https://github.com/CoderLine/alphaTab]
+#### Thanks to [Alphatab][https://github.com/CoderLine/alphaTab]
 
 
 
