@@ -11,6 +11,7 @@
 
 
 #### * Thanks to [Alphatab](https://github.com/CoderLine/alphaTab)
+#### * Thanks to [Tuxguitar](https://github.com/phiresky/tuxguitar)  for midi to gp converter
 
 
 
