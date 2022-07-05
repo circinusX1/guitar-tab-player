@@ -1,6 +1,6 @@
 # ghitara.com
 
-    [] (https://ghitara.com)
+    [a-link] (https://ghitara.com)
       
 ### MIDI to guitar pro converter
 ### play music score or guitar tab
