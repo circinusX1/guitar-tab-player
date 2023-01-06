@@ -3,6 +3,7 @@
 ----
 
 ## TAB PLAYER ONLINE, GUITAR PRO ONLINE, GUITAR PRO PLAYER ONLINE, MIDI CONVERTER
+The github contains the addon scripts added on on top of alphatab to make the website usable.
 ### * [auto play](https://ghitara.com/index.php?play2=C/CelelalteCuvinte/CelelalteCuvinte-LaCeasTirziu.gp5&genere=dummy0.jpg&sse=3279-3395-0&plpa)
 ### * MIDI to guitar pro converter
 ### * play music score or guitar tab
