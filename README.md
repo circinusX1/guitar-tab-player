@@ -24,5 +24,6 @@ The github contains the addon scripts added on on top of alphatab to make the we
 #### * Thanks to [Tuxguitar](https://github.com/phiresky/tuxguitar)
 
 
+![guit3](https://github.com/circinusX1/guitar-tab-player/assets/69641625/1f24964b-9d6e-4644-9690-c925883c9766)
 
 
