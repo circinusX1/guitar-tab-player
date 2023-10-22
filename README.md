@@ -12,6 +12,12 @@ The github contains the addon scripts added on on top of alphatab to make the we
 ### * bookmarks
 ### * no accounts, no ads, no spam, no popups.
 
+
+![ghit2](https://github.com/circinusX1/guitar-tab-player/assets/69641625/e103704d-bb53-477e-b528-d6d7598e9b1f)
+
+
+
+
 ----
 
 #### * Thanks to [Alphatab](https://github.com/CoderLine/alphaTab)
